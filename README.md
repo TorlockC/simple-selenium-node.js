@@ -9,3 +9,6 @@ In order to run the project you first need to:
 - Navigate to seleniumtests-master directory
 - Run `npm install` to grab dependencies from package.json (i.e. selenium-webdriver)
 - Run `node index.js`
+
+
+Read through index.js, the comments will let you know what is happening.
