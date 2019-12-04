@@ -4,8 +4,8 @@ This repository consists of a simple Node.js environment for running browser aut
 
 **In order to run the project you first need to:**
 
-- Install Node.js: https://nodejs.org/en/
-- Install GeckoDriver<sup>1</sup>[<sup>1</sup>][Footnote1]
+- Install [Node.js](https://nodejs.org/en/)
+- Install [GeckoDriver](https://github.com/mozilla/geckodriver/releases)<sup>1</sup>
 - Navigate to `simple-selenium-node.js-master` directory
 - Run `npm install` to fetch dependencies (i.e. `selenium-webdriver`)
 
