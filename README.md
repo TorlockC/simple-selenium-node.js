@@ -10,7 +10,7 @@ This repository consists of a simple Node.js environment for running browser aut
 - Run `npm install` to fetch dependencies (i.e. `selenium-webdriver`)
 
 **To test a particular function:**
-- Navigate to `simple-selenium-node.js-master/tests` directory
+- Navigate to `simple-selenium-node.js-master/examples` directory
 - Run `node chosen-function.js` (replacing `chosen-function.js` with the script you actually want to run)
 
 <hr>
