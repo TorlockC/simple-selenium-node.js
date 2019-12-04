@@ -5,7 +5,7 @@ This repository consists of a simple Node.js environment for running browser aut
 **In order to run the project you first need to:**
 
 - Install Node.js: https://nodejs.org/en/
-- Install GeckoDriver*
+- Install GeckoDriver<sup>1</sup>
 - Navigate to `simple-selenium-node.js-master` directory
 - Run `npm install` to fetch dependencies (i.e. `selenium-webdriver`)
 
@@ -13,4 +13,4 @@ This repository consists of a simple Node.js environment for running browser aut
 - Navigate to `simple-selenium-node.js-master/tests` directory
 - Run `node chosen-function.js` (replacing `chosen-function.js` with the script you actually want to run)
 
-*\*This project primarily focuses on FireFox. For Chrome, Safari, IE etc. the relevant alternatives to GeckoDriver will need to be installed and some small edits to the scripts needs to be made. I plan on incorporating additional browsers shortly.*
+*<sup>1</sup>This project primarily focuses on FireFox. For Chrome, Safari, IE etc. the relevant alternatives to GeckoDriver will need to be installed and some small edits to the scripts needs to be made. I plan on incorporating additional browsers shortly.*
