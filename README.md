@@ -13,4 +13,6 @@ This repository consists of a simple Node.js environment for running browser aut
 - Navigate to `simple-selenium-node.js-master/tests` directory
 - Run `node chosen-function.js` (replacing `chosen-function.js` with the script you actually want to run)
 
+<hr>
+
 *<sup>1</sup>This project primarily focuses on FireFox. For Chrome, Safari, IE etc. the relevant alternatives to GeckoDriver will need to be installed and some small edits to the scripts needs to be made. I plan on incorporating additional browsers shortly.*
