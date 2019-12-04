@@ -13,6 +13,11 @@ This repository consists of a simple Node.js environment for running browser aut
 - Navigate to `simple-selenium-node.js-master/examples` directory
 - Run `node chosenFunction.js` (replacing `chosenFunction.js` with the script you actually want to run)
 
+**Example functions include:**
+- `googleSearch.js` - opens `google.com` and searchs "askew" in the search field
+- `screenshotElement.js` - opens `google.com/search?q=weather`, takes a screenshot of the forecast element and saves it to disk
+- `screenshotPage.js` - opens `source.unsplash.com/random`, takes a screenshot of the entire visible page and saves it to disk
+
 <hr>
 
 *<sup>1</sup>This project primarily focuses on FireFox. For Chrome, Safari, IE etc. the relevant alternatives to GeckoDriver will need to be installed and some small edits to the scripts need to be made. I plan on incorporating additional browsers shortly.*
