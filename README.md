@@ -14,9 +14,9 @@ This repository consists of a simple Node.js environment for running browser aut
 - Run `node chosenFunction.js` (replacing `chosenFunction.js` with the script you actually want to run)
 
 **Example functions include:**
-- `googleSearch.js` - opens `google.com` and searchs "askew" in the search field
-- `screenshotElement.js` - opens `google.com/search?q=weather`, takes a screenshot of the forecast element and saves it to disk
-- `screenshotPage.js` - opens `source.unsplash.com/random`, takes a screenshot of the entire visible page and saves it to disk
+- `googleSearch.js` - opens Google and searchs for the term "askew"
+- `screenshotElement.js` - opens Google weather, screenshots the forecast element and saves it to disk
+- `screenshotPage.js` - opens Unsplash, screenshots the entire visible page and saves it to disk
 
 <hr>
 
