@@ -15,4 +15,4 @@ This repository consists of a simple Node.js environment for running browser aut
 
 <hr>
 
-*<sup>1</sup>This project primarily focuses on FireFox. For Chrome, Safari, IE etc. the relevant alternatives to GeckoDriver will need to be installed and some small edits to the scripts needs to be made. I plan on incorporating additional browsers shortly.*
+*<sup>1</sup>This project primarily focuses on FireFox. For Chrome, Safari, IE etc. the relevant alternatives to GeckoDriver will need to be installed and some small edits to the scripts need to be made. I plan on incorporating additional browsers shortly.*
