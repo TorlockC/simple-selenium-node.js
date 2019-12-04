@@ -17,5 +17,5 @@ async function googleSearch(){
   await driver.findElement(By.name("q")).sendKeys("askew", Key.RETURN);
 }
 
-// this calls the example() function above
+// this calls the googleSearch() function above
 googleSearch();
