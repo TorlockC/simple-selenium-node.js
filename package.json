@@ -1,11 +1,14 @@
 {
   "name": "simple-selenium-node.js",
-  "version": "1.1",
-  "description": "A simple environment with which you can run browser automation tasks with Selenium Webdriver using Node.js as well as a variety of examples to get you started.",
-  "main": "",
+  "version": "1.1.0",
+  "description": "A simple environment to run browser automation tasks with Selenium Webdriver using Node.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "selenium"
+  ],
   "author": "Tor",
   "license": "MIT",
   "dependencies": {
