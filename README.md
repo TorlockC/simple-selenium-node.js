@@ -1,13 +1,16 @@
-# seleniumtests
-Testing out Selenium
+# Simple Selenium Node.js
 
-In order to run the project you first need to:
+This repository consists of a simple Node.js environment for running browser automation tasks/tests using the Selenium WebDriver. The aim is provide a quick solution to get you up and running along with a series of functions that perform common tasks which you can implement and alter as per your own requirements.
 
-- Install NodeJS https://nodejs.org/en/
-- Install geckodriver and add `$PATH` variable if needed https://stackoverflow.com/a/56926716/3046537
-- Navigate to `seleniumtests-master` directory
-- Run `npm install` to grab dependencies from `package.json` (i.e. `selenium-webdriver`)
-- Run `node index.js`
+**In order to run the project you first need to:**
 
+- Install Node.js: https://nodejs.org/en/
+- Install GeckoDriver*
+- Navigate to `simple-selenium-node.js-master` directory
+- Run `npm install` to fetch dependencies (i.e. `selenium-webdriver`)
 
-Read through `index.js`, the comments will let you know what is happening.
+**To test a particular function:**
+- Navigate to `simple-selenium-node.js-master/tests` directory
+- Run `node chosen-function.js` (replacing `chosen-function.js` with the script you actually want to run
+
+\**this project primarily focuses on FireFox, for Chrome, Safari, IE etc. the relevant alternatives to GeckoDriver will need to be installed and some small edits to the scripts need to be made. I plan on incorpoating additional browsers shortly.
