@@ -1,6 +1,6 @@
 # Simple Selenium Node.js
 
-This repository consists of a simple Node.js environment for running browser automation tasks/tests using the Selenium WebDriver. The aim is provide a quick solution to get you up and running along with a collection of functions that perform common tasks which you can implement and alter as per your own requirements.
+This repository consists of a simple Node.js environment for running browser automation tasks/tests using the Selenium WebDriver. The aim is provide a quick solution to get you up and running along with a collection of functions that perform common tasks which you can implement and/or alter as per your own requirements.
 
 **In order to run the project you first need to:**
 
