@@ -23,6 +23,9 @@ async function screenshotElement(){
   fs.writeFile("weather.png", screenshot, 'base64', function(err) {
     console.log(err);
   });
+  
+  // close the browser
+  driver.close()
 }
 
 // this calls the screenshotElement() function above
