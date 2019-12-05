@@ -22,6 +22,9 @@ async function screenshotPage(){
   fs.writeFile("picture.png", screenshot, 'base64', function(err) {
     console.log(err);
   });
+  
+  // close the browser
+  driver.close()
 }
 
 // this calls the screenshotPage() function above
